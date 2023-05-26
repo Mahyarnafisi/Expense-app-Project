@@ -3,3 +3,12 @@
   align-items: center;
   justify-content: center;
 }
+p {
+  font-size: 1.6rem;
+}
+button {
+  font-size: 2.1rem;
+}
+a {
+  font-size: 3rem;
+}
